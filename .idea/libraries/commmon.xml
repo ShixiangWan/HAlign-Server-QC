@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commmon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/hadoop-common-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/hadoop-core-0.20.205.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jaligner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

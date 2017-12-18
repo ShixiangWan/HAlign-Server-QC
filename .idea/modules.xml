@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MMCOP.iml" filepath="$PROJECT_DIR$/MMCOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HAlignQC.iml" filepath="$PROJECT_DIR$/HAlignQC.iml" />
     </modules>
   </component>
 </project>
